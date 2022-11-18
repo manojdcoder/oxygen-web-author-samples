@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="acme-reuse">
+	<title>Reuse topic for Acme</title>
+	<body id="body_c505702e-2f0a-44e1-a95c-62f573192ecd">
+		<note id="warning-1">Admonitions for Acme</note>
+		<p><keyword id="product-name">Acme product name</keyword></p>
+	</body>
+</topic>
