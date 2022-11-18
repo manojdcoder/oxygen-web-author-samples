@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="oem-reuse">
+	<title>Reuse topic for OEM partner</title>
+	<body id="body_7897f8f9-92ef-4bc9-9e4c-42258c3b10cb">
+		<note id="warning-1">Admonitions for partner</note>
+		<p><keyword id="product-name">OEM product name</keyword></p>
+	</body>
+</topic>
