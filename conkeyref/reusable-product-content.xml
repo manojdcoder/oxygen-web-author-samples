@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reusable-product-content">
+	<title><keyword conkeyref="reuse/product-name"/> prerequisites</title>
+	<taskbody id="taskbody_cabd6a93-cc35-417b-815f-794e01a0706e">
+		<prereq><note conkeyref="reuse/warning-1" id="note_6560543d-fc4c-4a74-b85a-e7781240f692"/></prereq>
+	</taskbody>
+</task>
