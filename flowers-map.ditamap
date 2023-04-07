@@ -3,8 +3,8 @@
 <map>
     <title>Flowers Map</title>
     <topicref href="topics/gardenia.dita">
-        <topicref>
-            <topicref/>
+        <topicref href="topics/lilac.dita">
+            <topicref href="topics/salvia.dita"/>
         </topicref>
     </topicref>
 </map>
