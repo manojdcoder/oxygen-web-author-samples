@@ -2,4 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Flowers Map</title>
+    <topicref href="topics/gardenia.dita">
+        <topicref>
+            <topicref/>
+        </topicref>
+    </topicref>
 </map>
