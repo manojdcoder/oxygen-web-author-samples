@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_k2p_btl_bxb">
-    <title>Salvia</title>
-    <body>
-        <p>From Wikipedia, the free encyclopedia.</p>
-        <p>Salvia(flowers(autumn(salvia))) is the largest genus of plants in the mint family,
-            Lamiaceae, with approximately 900 species of shrubs, herbaceous perennials, and annuals.
-            It is one of three genera commonly referred to as sage. When used without modifiers,
-            sage generally refers to Salvia officinalis ("common sage"); however, it can be used
-            with modifiers to refer to any member of the genus. The ornamental species are commonly
-            referred to by their scientific name Salvia. The genus is distributed throughout the
-            world, with the center of diversity and origin appearing to be Central and South Western
-            Asia, while nearly 500 species are native to Mexico and Central and South America.</p>
-        <p/>
-    </body>
-    <topic id="id_npq_rnr_k1c" conref="flowers.dita#use">
-        <title/>
-    </topic>
-</topic>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_j4m_y1r_s2c">
+    <title></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>
