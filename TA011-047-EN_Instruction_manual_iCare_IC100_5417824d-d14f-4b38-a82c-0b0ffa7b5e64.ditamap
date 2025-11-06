@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?Inspire CreateDate="2025-11-06T20:13:58" ModifiedDate="2025-11-06T21:33:08"?><!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+
+<bookmap xml:lang="en-US" id="bookmap_6df5f275-4b0b-4613-bedf-129fa614d2dc">
+	<booktitle>
+		<mainbooktitle />
+	</booktitle>
+	<chapter>
+		<mapref href="tonometer_key_map_6da00f53-b408-4e36-ac5d-89766f2d42a6.ditamap" />
+	</chapter>
+	<chapter>
+		<mapref href="New_Map_cd5525f1-3c7f-4dc5-81e2-851f0e136ca3.ditamap" />
+	</chapter>
+</bookmap>
