@@ -2,4 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_udl_mpr_k1c">
     <title>Topic One Embedded in map</title>
+    <body>
+        <p>Hello I'm topic one from topic_1.dita</p>
+    </body>
 </topic>
